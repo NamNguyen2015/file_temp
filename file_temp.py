@@ -29,4 +29,4 @@ fp.read()
 # close the file, it will be removed
 fp.close()
 
-st.markdown(get_binary_file_downloader_html(fp, 'My Data'), unsafe_allow_html=True)
+#st.markdown(get_binary_file_downloader_html(fp, 'My Data'), unsafe_allow_html=True)
